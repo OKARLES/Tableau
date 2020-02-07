@@ -1,0 +1,28 @@
+@font-face {
+	font-family: Quicksand-Regular;
+	src: url(Quicksand-Regular.otf);
+}
+body {
+	font-family: Quicksand-Regular;
+	display: flex;
+	justify-content: center;
+	background-image: linear-gradient(to top, #2d1420, #ee4540);
+	background-repeat: no-repeat;
+	background-size: auto 957px;
+}
+main {
+	color: #ffffff;
+}
+table {
+	text-align: center;
+    border-collapse: collapse;
+    margin: 20vh;
+}
+
+td,th {
+	border: 1px solid #ffffff;
+    padding: 50px;
+}
+.pa {
+	text-align: center;
+}
